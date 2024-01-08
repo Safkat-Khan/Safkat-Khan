@@ -52,12 +52,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safkat-khan&theme=flat" alt="safkat-khan" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/spe_cter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spe_cter" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/spe_cter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="spe_cter" height="30" width="40" /></a>
-</p>
-
 <p></br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safkat-khan&show_icons=true&locale=en&layout=compact" alt="safkat-khan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safkat-khan&show_icons=true&locale=en" alt="safkat-khan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=safkat-khan&theme=gruvbox" alt="safkat-khan" /></p>
