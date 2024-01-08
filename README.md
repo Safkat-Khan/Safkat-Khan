@@ -49,15 +49,6 @@
 
 ![snake gif](https://github.com/Safkat-Khan/Safkat-Khan/blob/output/github-contribution-grid-snake.gif)
 
-<style>
-a{
-  max-width: 100%;
-      height: auto;
-      padding: 4%;
-}
-  </style>
-</head>
-<body>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safkat-khan&theme=flat" alt="safkat-khan" /></a> </p>
 
