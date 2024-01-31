@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Metro Rail Ticket Management System**
+ 🔭 I’m currently working on **Mental Health App**
  
- 🌱 I’m currently learning **C#**
+ 🌱 I’m currently learning **GO**
 
  💬 Ask me about **Node.js, React, Threejs... or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)**
 
