@@ -5,19 +5,26 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Safkat+Khan;" />
 </h1>
 
-<h3 align="center">Passionate Software Developer from Bangldesh 🇧🇩.</h3>
+<h3 align="center">
+        I am a passionate web developer with a strong interest in building web applications. </br>
+        I have experience in building web applications using JavaScript, React, and Node.js.  </br>
+        I am also familiar with the latest web technologies and have a strong understanding of web development.  </br>
+        I am a quick learner and always eager to learn new technologies. I am a team player and have experience working in a team environment.  </br>
+        I am also a good communicator and have experience working with clients.  </br>
+        I am looking for a challenging role where I can use my skills and experience to build web applications.
+</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Health Analysis Software**
+ 🔭 I’m currently working on **Mental Health Analysis Software**
  
  🌱 I’m currently learning **GO**
 
- 💬 Ask me about **Node.js, React, Threejs... or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)**
+ 💬 Ask me about **Node.js, **React, **Threejs... or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)**
 
- 🚀 Exhibiting expertise in Data Structures and Algorithms.
+ 🚀 Exhibiting expertise in **Data Structures** and **Algorithms**.
 
 
  </div>
