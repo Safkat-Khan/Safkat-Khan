@@ -18,11 +18,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Mental Health Analysis Software**
+ 🔭 I’m currently working on **Mental Health Analysis and Development Software**
  
  🌱 I’m currently learning **GO**
 
- 💬 Ask me about **Node.js, **React, **Threejs... or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)**
+ 💬 Ask me about Node.js, React, Threejs... or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)**
 
  🚀 Exhibiting expertise in **Data Structures** and **Algorithms**.
 
