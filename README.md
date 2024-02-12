@@ -57,9 +57,9 @@
 ![snake gif](https://github.com/Safkat-Khan/Safkat-Khan/blob/output/github-contribution-grid-snake.gif)
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safkat-khan&theme=flat" alt="safkat-khan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safkat-khan&theme=flat" alt="safkat-khan" /></a> </p>
 
-<p></br><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safkat-khan&show_icons=true&locale=en&layout=compact" alt="safkat-khan" /></p>
+<p></br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safkat-khan&show_icons=true&locale=en&layout=compact" alt="safkat-khan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safkat-khan&show_icons=true&locale=en" alt="safkat-khan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=safkat-khan&theme=gruvbox" alt="safkat-khan" /></p>
 </body>
