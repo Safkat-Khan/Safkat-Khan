@@ -6,12 +6,7 @@
 </h1>
 
 <h3 align="center">
-        I am a passionate web developer with a strong interest in building web applications. </br>
-        I have experience in building web applications using JavaScript, React, and Node.js.  </br>
-        I am also familiar with the latest web technologies and have a strong understanding of web development.  </br>
-        I am a quick learner and always eager to learn new technologies. I am a team player and have experience working in a team environment.  </br>
-        I am also a good communicator and have experience working with clients.  </br>
-        I am looking for a challenging role where I can use my skills and experience to build web applications.
+
 </h3>
 
 <br/>
