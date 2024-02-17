@@ -52,12 +52,19 @@
 ![snake gif](https://github.com/Safkat-Khan/Safkat-Khan/blob/output/github-contribution-grid-snake.svg)
 
 <hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=safkat-khan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=safkat-khan&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=safkat-khan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safkat-khan&theme=flat" alt="safkat-khan" /></a> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+✌️;" />
+</h1>
 
-<p></br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=safkat-khan&show_icons=true&locale=en&layout=compact" alt="safkat-khan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safkat-khan&show_icons=true&locale=en" alt="safkat-khan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=safkat-khan&theme=gruvbox" alt="safkat-khan" /></p>
 </body>
 </html>
 
