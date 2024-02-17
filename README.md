@@ -49,7 +49,7 @@
 <br/>
 <hr/>
 
-![snake gif](https://github.com/Safkat-Khan/Safkat-Khan/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safkat-khan&theme=flat" alt="safkat-khan" /></a> </p>
