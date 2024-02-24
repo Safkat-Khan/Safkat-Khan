@@ -15,7 +15,7 @@
  
  🔭 I’m currently working on **Mental Health Analysis and Development Software**
  
- 🌱 I’m currently learning **GO**
+ 🌱 I’m currently learning **GO Language**
 
  💬 Ask me about Node.js, React, Threejs... or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)
 
