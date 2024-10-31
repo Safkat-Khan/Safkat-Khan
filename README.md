@@ -1,15 +1,10 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=safkat-khan&label=Profile%20views&color=0e75b6&style=flat" alt="safkat-khan" /> </p>
-
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=safkat-khan&label=Profile%20views&color=FF5733&style=flat" alt="safkat-khan" /> 
+</p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Safkat+Khan;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF5733&lines=Hi+There!+👋;+I'm+Safkat+Khan;" />
 </h1>
-
-<h3 align="center">
-
-</h3>
-
-<br/>
 
 <div align="center">
  
@@ -17,28 +12,26 @@
  
  🌱 I’m currently learning **GO Language**
 
- 💬 Ask me about Node.js, React, Threejs... or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)
+ 💬 Ask me about Node.js, React, Three.js, or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)
 
  🚀 Exhibiting expertise in **Data Structures** and **Algorithms**.
 
+</div>
 
- </div>
- 
 <div align="center"> 
   <a href="mailto:Safkatkhan420@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/safkat-khan-20a2aa244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/Safkat-Khan" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-     <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -55,19 +48,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=safkat-khan&theme=react&border_radius=10" alt="streak stats"/>
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=safkat-khan&count_private=true&show_icons=true&theme=react&border_radius=10" alt="readme stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=safkat-khan&theme=github_dark&border_radius=10" alt="streak stats"/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=safkat-khan&count_private=true&show_icons=true&theme=github_dark&border_radius=10" alt="readme stats" />
 
   <br/>
-<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safkat-khan&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safkat-khan&hide=html&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+✌️;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF5733&lines=Thanks+for+visiting+✌️;" />
 </h1>
-
-</body>
-</html>
-
-
-
