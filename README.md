@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Mental Health Analysis and Development Software**
  
- 🌱 I’m currently learning **GO Language**
+ 🌱 I’m currently learning **PHP**
 
  💬 Ask me about Node.js, React, Three.js, or anything [here](https://github.com/Safkat-Khan/Safkat-Khan/issues)
 
