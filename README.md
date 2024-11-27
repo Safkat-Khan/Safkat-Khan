@@ -1,3 +1,7 @@
+<div align="center">
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjcxc20yanh4NnN6N3I1bWR1eWYwaHlqcTBxajBoMXc0bGZ2c3loeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h2LCfvk3XBlQxKyKWY/giphy.gif" width="270px" />
+      <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px" />
+</div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF5733&lines=Hi+There!+👋;+I'm+Safkat+Khan;" />
@@ -16,10 +20,10 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:Safkatkhan420@gmail.com">
+  <a href="mailto:**************">
     <img src="https://img.shields.io/badge/Gmail-FF5733?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/safkat-khan-20a2aa244/" target="_blank">
+  <a href="https://www.linkedin.com/in/0xsafkat20/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://safkat-khan.surge.sh/" target="_blank">
@@ -43,13 +47,14 @@
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<be>
+
 <div align=center>
-    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=safkat-khan&theme=github_dark&border_radius=10" alt="streak stats"/>
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=safkat-khan&count_private=true&show_icons=true&theme=github_dark&border_radius=10" alt="readme stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=0xSafkat20&theme=github_dark&border_radius=10" alt="streak stats"/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=0xSafkat20&count_private=true&show_icons=true&theme=github_dark&border_radius=10" alt="readme stats" />
 
   <br/>
-<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safkat-khan&hide=html&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xSafkat20&hide=html&langs_count=8&layout=compact&theme=github_dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <h1 align="center">
